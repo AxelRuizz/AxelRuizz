@@ -17,6 +17,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="center>
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=AxelRuizz&theme=graywhite&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-</p>
+
