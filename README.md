@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Axel Ruiz 👋</h1>
-<h3 align="center">Student | Trilingual | Learning Enthusiast</h3>
+<h1 align="center" style="color:black;>Hi there, I'm Axel Ruiz 👋</h1>
+<h3 align="center" style="color:black;>Student | Trilingual | Learning Enthusiast</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - I'm always looking for new ways to learn and grow.
