@@ -1,9 +1,8 @@
-# No convertir encabezados en enlaces
 <h1 align="center">Hi there, I'm Axel Ruiz 👋</h1>
 <h3 align="center">Student | Trilingual | Learning Enthusiast</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+- I´m always looking for new ways to learn and grow.
 - I'm currently studying computer systems engineering at National Technological Institute of Mexico.
 - I'm currently learning python and assembler.
 - In my free time,  I like to improve my skills and play sports.
