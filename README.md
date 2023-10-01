@@ -15,7 +15,10 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=default)
+<p align="center">
+      <a href="[https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=github)">
+</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
