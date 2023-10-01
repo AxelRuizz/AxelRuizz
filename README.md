@@ -16,9 +16,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com?user=AxelRuizz&theme=graywhite&hide_border=true&mode=weekly"/>
 </div>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
