@@ -16,8 +16,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=transparent"/>
 </div>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
