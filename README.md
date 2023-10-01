@@ -16,6 +16,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=github"/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=github)
 
 </div>
