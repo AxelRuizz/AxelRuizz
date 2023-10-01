@@ -15,7 +15,7 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=default)
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![GitHub Streak](https://streak-stats.demolab.com?user=AxelRuizz&theme=graywhite&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
