@@ -15,13 +15,11 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AxelRuizz&theme=graywhite&hide_border=true&mode=weekly"/>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AxelRuizz&theme=graywhite"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AxelRuizz&theme=graywhite&utcOffset=8"/>
-  </div>
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/axel-ruiz-a63574271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-ruiz-a63574271" height="30" width="40" /></a>
+<a href="https://instagram.com/imaxelruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaxelruiz" height="30" width="40" /></a>
+<a href="https://discord.gg/alxerzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alxerzz" height="30" width="40" /></a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
