@@ -3,3 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+### 🛠 &nbsp;Tech Stack
+
+### ⚙️ &nbsp;GitHub Analytics
+
+### 🤝🏻 &nbsp;Connect with Me
