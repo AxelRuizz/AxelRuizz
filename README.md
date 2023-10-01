@@ -15,10 +15,7 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-      <a href="[https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=github)">
-</p>
-
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
