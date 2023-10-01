@@ -15,7 +15,10 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
+<div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=github)
+
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
