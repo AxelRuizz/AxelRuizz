@@ -17,7 +17,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AxelRuizz&theme=graywhite&hide_border=true&mode=weekly"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxelRuizz&theme=graywhite"/>
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AxelRuizz&theme=graywhite"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AxelRuizz&theme=graywhite&utcOffset=8"/>
+  </div>
 </div>
 
 ### 🤝🏻 &nbsp;Connect with Me
