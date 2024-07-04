@@ -10,7 +10,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,react,py,php,nodejs,mysql,md,linux,kotlin,js,java,html,github,git,gcp,firebase,blender,azure,androidstudio,electron,docker,django,css,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,java,html,github,git,blender,androidstudio,css&theme=light" />
   </a>
 </p>
 
