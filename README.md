@@ -18,13 +18,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AxelRuizz&theme=graywhite&hide_border=true&mode=weekly"/>
 </div>
-
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-  <a href="https://github.com/AxelRuizz">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-  </a>
-  <a href="https://www.linkedin.com/in/axel-ruiz-a63574271/">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-  </a>
-</p>
