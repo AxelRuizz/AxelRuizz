@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Axel Ruiz 👋</h1>
+<h3 align="center" >Student | Learning Enthusiast</h3>
 
-<!--
-**AxelRuizz/AxelRuizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
+- I'm always looking for new ways to learn and grow.
+- I'm currently studying computer systems engineering at National Technological Institute of Mexico.
+- I'm currently learning python.
+- In my free time,  I like to improve my skills and swim.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,java,html,github,git,blender,androidstudio,css&theme=light" />
+  </a>
+</p>
